@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632139274576",
+    "project_id": "jemputbarang-f3b9f",
+    "storage_bucket": "jemputbarang-f3b9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632139274576:android:df64362f1435a065f27455",
+        "android_client_info": {
+          "package_name": "com.example.jemputbarangekspedisi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632139274576-1fhvqm03bd68pmupk41akc62njuom3vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUCGvbFWyO-xsIAq2SmN1QirGQbyAoxOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632139274576-1fhvqm03bd68pmupk41akc62njuom3vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

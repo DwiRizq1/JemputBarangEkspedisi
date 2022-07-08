@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JemputBarangEkspedisi</string>
+
+    <string name="todo">TODO</string>
+    <string name="nama">Nama Pengirim</string>
+    <string name="barang">Nama Barang</string>
+    <string name="berat">Berat</string>
+    <string name="simpan">Simpan</string>
+    <string name="kg">kg</string>
+</resources>
